@@ -1,4 +1,4 @@
-# DarkViewer
+# ![icon256.png](src/icon48.png)DarkViewer
 
 ## An OpenGL 2.0 image viewer with toggleable interpolation.
 ![screenshotNoInterp.png](screenshotNoInterp.png)
